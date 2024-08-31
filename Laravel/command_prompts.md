@@ -1,5 +1,4 @@
-...js
+js
 ((){
 console.log("All ok!")
 })();
-...
